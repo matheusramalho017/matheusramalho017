@@ -18,7 +18,7 @@
 <hr></hr>
 
 <div>
-<p align="left"> If you just want to send me a massage, feel free to send it! :) </p>
+<p align="left"> If you just want to send me a massage, feel free to! :) </p>
 
 <a href="https://t.me/matheus0171"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://wa.me/+55159968597494"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -41,8 +41,6 @@
   <img align="center" alt="Matheus-Kotlin" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Matheus-Ruby" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Matheus-SQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <br>
-  <br>
+  <br><br>
   <img src="https://media2.giphy.com/media/S4dkMoUiynLxu/giphy.gif" min-width="500px" max-width="400px" width="300px" align="center">
 </div>
-  
