@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning TypeScript, Kotlin, Ruby and Ruby on Rails.
 - 💬 Ask me about Games, Animes or even Series.
-- ⚡ Fun fact: Ace Combat is my favorite game franchise even I was just 5.
+- ⚡ Fun fact: Ace Combat is my favorite game franchise since I was just 5.
 
 <hr></hr>
 
@@ -17,7 +17,7 @@
 <hr></hr>
 
 <div>
-<p align="left"> If you just want to send me a massage, don't exitated to :) </p>
+<p align="left"> If you just want to send me a massage, feel free to send it! :) </p>
 
 <a href="https://t.me/matheus0171"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://wa.me/+55159968597494"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
