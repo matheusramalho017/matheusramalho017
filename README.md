@@ -30,7 +30,7 @@
 
 <hr></hr>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <img align="center" alt="Matheus-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,6 +40,8 @@
   <img align="center" alt="Matheus-Kotlin" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Matheus-Ruby" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Matheus-SQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img src="https://media2.giphy.com/media/S4dkMoUiynLxu/giphy.gif" min-width="500px" max-width="400px" width="300px" align="right">
+  <br>
+  <br>
+  <img src="https://media2.giphy.com/media/S4dkMoUiynLxu/giphy.gif" min-width="500px" max-width="400px" width="300px" align="center">
 </div>
   
