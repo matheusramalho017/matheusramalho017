@@ -3,6 +3,7 @@
 <hr></hr>
 
 - 🌱 I’m currently learning TypeScript, Kotlin, Ruby and Ruby on Rails.
+- 🤓 I’m also improving other languages, like JavaScript, Java, C#, HTML/CSS and SQL.
 - 💬 Ask me about Games, Animes or even Series.
 - ⚡ Fun fact: Ace Combat is my favorite game franchise since I was just 5.
 
