@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/matheusramalho01710/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.reddit.com/user/Hot-Professional3320"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC7ytwRtRDUIwEtjjfxjrKEg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  
 </div>
 
 <hr></hr>
