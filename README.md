@@ -2,7 +2,7 @@
 
 <hr></hr>
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and React.
 - 🤓 I’m also improving other languages, like JavaScript, TypeScript, HTML/CSS and DataBase.
 - 💬 Ask me about Games, Animes or even Series.
 - ⚡ Fun fact: Ace Combat is my favorite game franchise since I was just 5.
