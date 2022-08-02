@@ -40,9 +40,6 @@
   <img align="center" alt="Matheus-DJ" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Matheus-React" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
-
-
- 
   <br><br>
   <img src="https://media2.giphy.com/media/S4dkMoUiynLxu/giphy.gif" min-width="500px" max-width="400px" width="300px" align="center">
 </div>
