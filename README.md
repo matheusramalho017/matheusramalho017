@@ -3,7 +3,7 @@
 <hr></hr>
 
 - 🌱 I’m currently learning Python and React.
-- 🤓 I’m also improving other languages: Angular, Bootstrap and DataBase.
+- 🤓 I’m also improving other languages: Angular and Front End in general.
 - 💬 Ask me about Games, Animes or even Series.
 - ⚡ Fun fact: Ace Combat is my favorite game franchise since I was just 5.
 
@@ -32,14 +32,15 @@
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Matheus-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Matheus-Ang" height="70" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/angular_simple.svg">
   <img align="center" alt="Matheus-Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Matheus-Kotlin" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Matheus-Ruby" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Matheus-SQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Matheus-Python" height="70" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg">
+  <img align="center" alt="Matheus-React" https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg">
+
+
+ 
   <br><br>
   <img src="https://media2.giphy.com/media/S4dkMoUiynLxu/giphy.gif" min-width="500px" max-width="400px" width="300px" align="center">
 </div>
