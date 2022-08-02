@@ -37,7 +37,9 @@
   <img align="center" alt="Matheus-Ang" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Matheus-Java" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Matheus-Python" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-DJ" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Matheus-React" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  
 
 
  
