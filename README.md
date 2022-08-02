@@ -34,10 +34,10 @@
   <img align="center" alt="Matheus-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Ang" height="70" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/angular_simple.svg">
-  <img align="center" alt="Matheus-Java" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Matheus-Python" height="70" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg">
-  <img align="center" alt="Matheus-React" https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg">
+  <img align="center" alt="Matheus-Ang" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Matheus-Java" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Matheus-Python" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-React" height="70" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 
 
  
