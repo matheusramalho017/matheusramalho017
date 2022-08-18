@@ -2,8 +2,8 @@
 
 <hr></hr>
 
-- 🌱 I’m currently learning Python and React.
-- 🤓 I’m also improving other languages: Angular and Front End in general.
+- 🌱 I’m currently learning Python and Flutter.
+- 🤓 I’m also improving Front and Back End.
 - 💬 Ask me about Games, Animes or even Series.
 - ⚡ Fun fact: Ace Combat is my favorite game franchise since I was just 5.
 
